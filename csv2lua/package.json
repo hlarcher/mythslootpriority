@@ -1,0 +1,11 @@
+{
+  "name": "csv2lua",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "maegdring",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "js2lua": "^0.1.5"
+  }
+}
