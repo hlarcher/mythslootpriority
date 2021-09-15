@@ -13,11 +13,11 @@ function getColor(class)
     class = class:gsub("priestshadow", "|cFFFFFFFFPriest Shadow|r")
     class = class:gsub("rogue", "|cFFFFF569Rogue|r")
     class = class:gsub("warlock", "|cFF9482C9Warlock|r")
-    class = class:gsub("warriorspa", "|cFFC79C6EWarrior dps|r")
+    class = class:gsub("warriordps", "|cFFC79C6EWarrior dps|r")
     class = class:gsub("warriorprot", "|cFFC79C6EWarrior Prot|r")
     class = class:gsub("shamanresto", "|cFF0070DEShaman Resto|r")
     class = class:gsub("shamanelem", "|cFF0070DEShaman Elem|r")
-    class = class:gsub("shamanenh", "|cFF0070DEShaman Ebnh|r")
+    class = class:gsub("shamanenh", "|cFF0070DEShaman Enh|r")
     return class
 end
 
