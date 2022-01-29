@@ -1,6 +1,6 @@
-## Interface: 20502
+## Interface: 20503
 ## Title: Myths Priority Tooltip
-## Notes: Created to avoid that Hanoy gets all the loot
+## Notes: Created to avoid Hanoy getting all the loot
 ## Author: Maegdring
 ## Version: 1.0.0
 
