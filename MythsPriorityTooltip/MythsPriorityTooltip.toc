@@ -1,6 +1,6 @@
 ## Interface: 20503
 ## Title: Myths Priority Tooltip
-## Notes: Created to avoid Hanoy getting all the loot
+## Notes: This addon serves absolutely no purpose
 ## Author: Maegdring
 ## Version: 1.0.0
 

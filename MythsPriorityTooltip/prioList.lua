@@ -1297,7 +1297,7 @@ prioList = {
         ["prio2"] = "",
         ["prio3"] = "",
         ["prio4"] = "",
-        ["note"] = "TBD"
+        ["note"] = ""
        },
        {
         ["name"] = "Choker of Serrated Blades",
@@ -1306,7 +1306,7 @@ prioList = {
         ["prio2"] = "",
         ["prio3"] = "hunter",
         ["prio4"] = "",
-        ["note"] = "TBD this is BIS for fury war"
+        ["note"] = ""
        },
        {
         ["name"] = "Claw of Molten Fury",
@@ -1315,7 +1315,7 @@ prioList = {
         ["prio2"] = "",
         ["prio3"] = "",
         ["prio4"] = "",
-        ["note"] = "TBD"
+        ["note"] = ""
        },
        {
         ["name"] = "Fist of Molten Fury",
@@ -1324,7 +1324,7 @@ prioList = {
         ["prio2"] = "",
         ["prio3"] = "",
         ["prio4"] = "",
-        ["note"] = "TBD"
+        ["note"] = ""
        },
        {
         ["name"] = "Girdle of the Lightbearer",
@@ -1342,7 +1342,7 @@ prioList = {
         ["prio2"] = "",
         ["prio3"] = "",
         ["prio4"] = "",
-        ["note"] = "TBD"
+        ["note"] = ""
        },
        {
         ["name"] = "Hellfire-Encased Pendant",
@@ -1351,7 +1351,7 @@ prioList = {
         ["prio2"] = "",
         ["prio3"] = "",
         ["prio4"] = "",
-        ["note"] = "TBD"
+        ["note"] = ""
        },
        {
         ["name"] = "Illidari Runeshield",
@@ -1369,7 +1369,7 @@ prioList = {
         ["prio2"] = "",
         ["prio3"] = "",
         ["prio4"] = "",
-        ["note"] = "TBD"
+        ["note"] = ""
        },
        {
         ["name"] = "Pepe's Shroud of Pacification",
@@ -1378,7 +1378,7 @@ prioList = {
         ["prio2"] = "",
         ["prio3"] = "",
         ["prio4"] = "",
-        ["note"] = "TBD"
+        ["note"] = ""
        },
        {
         ["name"] = "Pillager's Gauntlets",
@@ -1393,9 +1393,9 @@ prioList = {
         ["name"] = "Ring of Ancient Knowledge",
         ["id"] = "32527",
         ["prio1"] = "priestshadow",
-        ["prio2"] = "warlock",
-        ["prio3"] = "druidbalance",
-        ["prio4"] = "shamanelem",
+        ["prio2"] = "druidbalance,warlock",
+        ["prio3"] = "shamanelem",
+        ["prio4"] = "magefire,magearcane",
         ["note"] = ""
        },
        {
@@ -2202,10 +2202,10 @@ prioList = {
        {
         ["name"] = "Translucent Spellthread Necklace",
         ["id"] = "32349",
-        ["prio1"] = "warlock",
-        ["prio2"] = "druidbalance",
-        ["prio3"] = "priestshadow",
-        ["prio4"] = "magefire,magearcane",
+        ["prio1"] = "druidbalance,warlock",
+        ["prio2"] = "priestshadow",
+        ["prio3"] = "magefire,magearcane",
+        ["prio4"] = "shamanelem",
         ["note"] = ""
        },
        {
@@ -2386,7 +2386,7 @@ prioList = {
         ["prio2"] = "palaprot",
         ["prio3"] = "",
         ["prio4"] = "",
-        ["note"] = "Technically better for paladin, but warrior get way less (especially tier). Warrior probably should pass if they get Kaz'rogal's Hardened Heart.Pallies can pass if they get Antonidas's Aegis of Rapt Concentration or even Illidari Runeshield."
+        ["note"] = ""
        },
        {
         ["name"] = "Chestguard of the Forgotten Conqueror",
@@ -2404,7 +2404,7 @@ prioList = {
         ["prio2"] = "shamanelem",
         ["prio3"] = "hunter",
         ["prio4"] = "warriordps",
-        ["note"] = "Mega-BIS for dps warr"
+        ["note"] = ""
        },
        {
         ["name"] = "Chestguard of the Forgotten Vanquisher",
@@ -2440,7 +2440,7 @@ prioList = {
         ["prio2"] = "hunter,palaret",
         ["prio3"] = "warriordps",
         ["prio4"] = "rogue",
-        ["note"] = "This is actual BIS for fury warrior."
+        ["note"] = ""
        },
        {
         ["name"] = "Faceplate of the Impenetrable",
@@ -2503,7 +2503,7 @@ prioList = {
         ["prio2"] = "",
         ["prio3"] = "",
         ["prio4"] = "",
-        ["note"] = "Secret (but actually Manmetz gets 1st)"
+        ["note"] = "Secret (Please stop drooling)"
        },
        {
         ["name"] = "Warglaive of Azzinoth (offhand)",
@@ -2512,7 +2512,7 @@ prioList = {
         ["prio2"] = "",
         ["prio3"] = "",
         ["prio4"] = "",
-        ["note"] = "Secret (but actually Manmetz gets 1st)"
+        ["note"] = "Secret (Please stop drooling)"
        },
        {
         ["name"] = "Zhar'doom, Greatstaff of the Devourer",
@@ -2868,10 +2868,10 @@ prioList = {
        {
         ["name"] = "Anetheron's Noose",
         ["id"] = "30888",
-        ["prio1"] = "magefire,magearcane",
-        ["prio2"] = "druidbalance",
-        ["prio3"] = "warlock",
-        ["prio4"] = "shamanelem",
+        ["prio1"] = "druidbalance,magefire,magearcane",
+        ["prio2"] = "warlock",
+        ["prio3"] = "shamanelem",
+        ["prio4"] = "priestshadow",
         ["note"] = ""
        },
        {
@@ -3040,7 +3040,7 @@ prioList = {
         ["name"] = "Kaz'rogal's Hardened Heart",
         ["id"] = "30889",
         ["prio1"] = "warriorprot",
-        ["prio2"] = "",
+        ["prio2"] = "palaprot",
         ["prio3"] = "",
         ["prio4"] = "",
         ["note"] = ""
@@ -3214,7 +3214,7 @@ prioList = {
         ["prio2"] = "shamanelem",
         ["prio3"] = "hunter",
         ["prio4"] = "warriordps",
-        ["note"] = "This is 2nd BIS for fury warrior (cursed vision is 1st)"
+        ["note"] = ""
        },
        {
         ["name"] = "Helm of the Forgotten Vanquisher",
